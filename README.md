@@ -5,10 +5,10 @@ This repository contains a narrative retelling of the story of Thamud and the Ca
 ## Main Pages
 
 - **Thamud and the Camel of God**  
-  https://raphaelasanti/github.io/thamud-and-the-camel-of-god/
+  https://raphaelasanti.github.io/thamud-and-the-camel-of-god/
 
 - **Site Index**  
-  https://raphaelasanti/github.io/
+  https://raphaelasanti.github.io/
 
 ## License
 
