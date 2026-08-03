@@ -12,15 +12,16 @@ This repository contains a narrative retelling of the story of Thamud and the Ca
 
 ## License
 
-This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
-You are free to share and adapt the material as long as appropriate credit is given.
+This project is licensed under the **Creative Commons Attribution–NoDerivatives 4.0 International (CC BY‑ND 4.0)** license.  
+You are free to share the material as long as appropriate credit is given, but you may not remix, transform, or modify the work.
 
 License details:  
-https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by-nd/4.0/
 
 ## About This Repository
 
 All content is written in clean HTML with minimal styling for clarity and accessibility.  
 Edits, expansions, and refinements are ongoing as the narrative develops.
 
-
+## Author
+Raphael Asanti
