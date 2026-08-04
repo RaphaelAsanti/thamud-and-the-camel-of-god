@@ -1,27 +1,48 @@
 # Thamud and the Camel of God
 
-This repository contains a narrative retelling of the story of Thamud and the Camel of God, combining Qur’anic text with classical tafsīr, hadith, symbolism, and cultural context. The project is part of a larger effort to build clear, minimal, high‑contrast explanatory pages.
+A concise structural overview of the Qur’anic narrative of Thamud and the Camel of God.  
+This page outlines the moral structure, the test, the grievance‑driven escalation, and the destruction that follows the violation of a divine sign.
 
-## Main Pages
+---
 
-- **Thamud and the Camel of God**  
-  https://raphaelasanti.github.io/thamud-and-the-camel-of-god/
+### Files
+index.html — Primary page (HTML)  
+https://raphaelasanti.github.io/thamud-and-the-camel-of-god/
 
-- **Site Index**  
-  https://raphaelasanti.github.io/
+### License
+https://github.com/RaphaelAsanti/thamud-and-the-camel-of-god/blob/main/LICENSE
 
-## License
+---
 
-This project is licensed under the **Creative Commons Attribution–NoDerivatives 4.0 International (CC BY‑ND 4.0)** license.  
-You are free to share the material as long as appropriate credit is given, but you may not remix, transform, or modify the work.
+### Author
+Raphael E. Asanti  
+July 2026
 
-License details:  
-https://creativecommons.org/licenses/by-nd/4.0/
+---
 
-## About This Repository
+### Related Pages
+Main Index  
+https://raphaelasanti.github.io/
 
-All content is written in clean HTML with minimal styling for clarity and accessibility.  
-Edits, expansions, and refinements are ongoing as the narrative develops.
+---
 
-## Author
-Raphael Asanti
+### Donate
+This work is sustained entirely by voluntary contributions.
+
+**Cash App**  
+https://cash.app/$phirunltd
+
+**Gumroad (optional donation when downloading)**  
+https://phirun4.gumroad.com/l/zsmzjh
+
+---
+
+### Contribute
+Share the public page on your social media to extend its reach:  
+https://raphaelasanti.github.io/thamud-and-the-camel-of-god/
+
+---
+
+### Free Ebook
+If you prefer not to donate, the same ebook is available here:  
+https://github.com/raphaelasanti/the-end-of-time/
